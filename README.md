@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Full Stack Developer | DSA Learner </h3>
+I’m a passionate full-stack developer with hands-on experience in building scalable web applications using the MERN stack and Next.js. I specialize in developing innovative, real-world solutions and enjoy turning complex problems into impactful products. I’ve actively participated in and won multiple national-level hackathons, demonstrating strong problem-solving skills, teamwork, and the ability to build under pressure.
 
+🏆 Hackathon Winner
+
+1. Google Developer Groups CVR Hackathon
+
+2. Microsoft’s CodeCubicle 5.O
+
+3. VJ Hackathon by CSI
 ---
 
 ## 🚀 About Me
@@ -13,13 +21,10 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/aishwarya-nellutla-3ab6322b1/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:aishwaryanellutla483@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
