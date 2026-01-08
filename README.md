@@ -14,7 +14,7 @@ I’m a passionate full-stack developer with hands-on experience in building sca
 ## 🚀 About Me
 - 💻 Passionate **Full Stack Developer**
 - 🧠 Strong in **DSA & System Design**
-- 🤖 Building **Generative AI & RAG applications**
+- 🤖 Building **RAG application**
 - 🏆 National Hackathon Winner (700+ teams)
 
 ---
