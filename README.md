@@ -2,20 +2,21 @@
 <h3 align="center">Full Stack Developer | DSA Learner </h3>
 I’m a passionate full-stack developer with hands-on experience in building scalable web applications using the MERN stack and Next.js. I specialize in developing innovative, real-world solutions and enjoy turning complex problems into impactful products. I’ve actively participated in and won multiple national-level hackathons, demonstrating strong problem-solving skills, teamwork, and the ability to build under pressure.
 
+
 🏆 Hackathon Winner
 
-1. Google Developer Groups CVR Hackathon
+1. Google Developer Groups - CVR Hackathon
 
-2. Microsoft’s CodeCubicle 5.O
+2. 1st Runner-Up Microsoft’s CodeCubicle 5.O
 
-3. VJ Hackathon by CSI
+3. 1st Runner-Up - VJ Hackathon by Computer Society of India
 ---
 
 ## 🚀 About Me
 - 💻 Passionate **Full Stack Developer**
 - 🧠 Strong in **DSA & System Design**
 - 🤖 Building **RAG application**
-- 🏆 National Hackathon Winner (700+ teams)
+- 🏆 National Hackathon Winner (2500+ teams)
 
 ---
 
