@@ -22,7 +22,7 @@ I’m a passionate full-stack developer with hands-on experience in building sca
 
 ## 🌐 Connect with Me
 <p>
-  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/aishwarya-nellutla-3ab6322b1/)">
+  <a href="[https://www.linkedin.com/in/aishwarya-nellutla-3ab6322b1/](https://www.linkedin.com/in/aishwarya-nellutla-3ab6322b1/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aishwaryanellutla483@gmail.com">
