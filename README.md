@@ -29,9 +29,8 @@ Open Source Contributions
   <a href="https://www.linkedin.com/in/aishwarya-nellutla-3ab6322b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aishwaryanellutla483@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  ## 📫 Contact Me
+Email: aishwaryanellutla483@gmail.com
 </p>
 
 ---
