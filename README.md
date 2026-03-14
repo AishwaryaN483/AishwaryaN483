@@ -29,10 +29,11 @@ Open Source Contributions
   <a href="https://www.linkedin.com/in/aishwarya-nellutla-3ab6322b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  ## 📫 Contact Me
-Email: aishwaryanellutla483@gmail.com
+  
 </p>
 
+📫 Contact Me
+    Email: aishwaryanellutla483@gmail.com
 ---
 
 ## 🛠 Tech Stack
