@@ -1,5 +1,5 @@
 <h1>💫 About Me</h1>
-<h3 align="center">Open-Source Contributor@Wagtail | Full Stack Developer | DSA Learner </h3>
+<h3 align="center">Open-Source Contributor@Wagtail | Full Stack Developer | DSA Learner | Hackathon Veteran </h3>
 I’m a passionate full-stack developer with hands-on experience in building scalable web applications using the MERN stack and Next.js. I specialize in developing innovative, real-world solutions and enjoy turning complex problems into impactful products. I’ve actively participated in and won multiple national-level hackathons, demonstrating strong problem-solving skills, teamwork, and the ability to build under pressure.
 
 Open Source Contributions
