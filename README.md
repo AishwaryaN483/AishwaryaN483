@@ -49,6 +49,7 @@ Open Source Contributions
 ---
 
 ### 🧠 AI / ML & Data
+![RAG](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
