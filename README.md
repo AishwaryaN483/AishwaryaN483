@@ -3,6 +3,8 @@
 I’m a passionate full-stack developer with hands-on experience in building scalable web applications using the MERN stack and Next.js. I specialize in developing innovative, real-world solutions and enjoy turning complex problems into impactful products. I’ve actively participated in and won multiple national-level hackathons, demonstrating strong problem-solving skills, teamwork, and the ability to build under pressure.
 
 Open Source Contributions
+
+- GSSOC Public Profile - https://infra.smartlylabs.ai/profile/cmsyqzzai00gr04jyeks9pr1a
 - Contributed to the Wagtail Bakerdemo project (Django + Wagtail CMS).
 - My pull request was successfully merged into the main repository.
 - PR: https://github.com/wagtail/bakerydemo/pull/597#issuecomment-4033151027
